@@ -1,0 +1,17 @@
+{
+  "name": "journal",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Cassie Musolf <cassiemusolf@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
